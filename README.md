@@ -10,11 +10,13 @@ Ola meu nome é Felipe Guilherme sou um novo Programador Front-end, criando proj
 <br/>
 <br/>
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+<br/>
+<img src = "https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black " />]
+<br/>
 
 Pretendo apreder sobre o Back-end futuramente e no momento estou estudando sobre 
 
-<img src = "https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black " />]
-<br/>
+
 <br/>
 <img src = "https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 <br/>
