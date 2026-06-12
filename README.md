@@ -22,4 +22,4 @@ Pretendo apreder sobre o Back-end futuramente e no momento estou estudando sobre
 <img src = "https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" />
 
 
-[![Felipe Stats](https://github-readme-stats.vercel.app/api?username=felipe-alfa)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe Stats](https://github-readme-stats.vercel.app/api?username=Felipe0Guilherme)](https://github.com/anuraghazra/github-readme-stats)
